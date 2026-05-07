@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Primeira Página Next
 
-First, run the development server:
+<img width="100%" src="preview.png" alt="Preview do site">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Sobre o Projeto
+Este foi o meu primeiro projeto desenvolvido com Next.js, criado com o objetivo de praticar conceitos iniciais de desenvolvimento web moderno utilizando rotas, componentes reutilizáveis e organização de páginas.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+O site foi pensado como uma apresentação pessoal, contendo páginas que falam sobre mim, meus planos para o futuro e minhas férias, proporcionando uma navegação simples, organizada e agradável.
 
-## Learn More
+Além disso, o projeto utiliza elementos como NavBar e Rodapé, tornando a interface mais profissional e melhorando a experiência do usuário durante a navegação.
 
-To learn more about Next.js, take a look at the following resources:
+---
+## Tecnologias Utilizadas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<p align="left">
+  <img 
+    alt="Next.js" 
+    height="50" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+  />
+  
+  <img 
+    alt="React" 
+    height="50" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  />
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+  <img 
+    alt="CSS" 
+    height="50" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+  />
 
-## Deploy on Vercel
+  <img 
+    alt="JavaScript" 
+    height="50" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  />
+</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Funcionalidades
+
+Navegação entre páginas utilizando rotas do Next.js  
+Componentes reutilizáveis  
+Navbar personalizada  
+Rodapé estilizado  
+Páginas sobre mim, meus planos e minhas férias  
+Layout simples e organizado  
+
+---
+
+## Objetivo do Projeto
+
+O principal objetivo deste projeto foi aprender os conceitos iniciais do **Next.js**, incluindo:
+
+- Criação de rotas
+- Componentização
+- Estruturação de layouts
+- Estilização de páginas
+- Organização de arquivos
+
+Estudante de Desenvolvimento de Sistemas pelo SENAI Sorocaba, cursando o 3º semestre e iniciando sua trajetória no desenvolvimento Full Stack.
+
+---
+
+## Futuras Melhorias
+
+- Responsividade para dispositivos móveis  
+- Melhorias visuais  
+- Animações  
+- Modo escuro  
+- Deploy online  
+
+---
+
+# Desenvolvido por
+**Maria Eduarda Brandão**
+
+Estudante de Desenvolvimento de Sistemas pelo SENAI Sorocaba, cursando o 3º semestre e atualmente iniciando sua trajetória no desenvolvimento Full Stack.
+
+---
