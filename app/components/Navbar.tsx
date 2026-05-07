@@ -10,5 +10,7 @@ export default function Navbar() {
         <Link href="/meusPlanos" className="nav-link">Meus Planos</Link>
       </nav>
     </header>
+
+  
   );
 }
